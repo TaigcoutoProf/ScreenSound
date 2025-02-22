@@ -12,7 +12,7 @@
         Console.WriteLine($"Nome: {Nome}");
         Console.WriteLine($"Artista: {Artista}");
         Console.WriteLine($"Duração: {Duracao}");
-        if (Disponivel)
+        if (Disponivel) 
         {
             Console.WriteLine("Disponível no plano.");
         }
